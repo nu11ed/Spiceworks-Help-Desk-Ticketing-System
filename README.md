@@ -13,5 +13,5 @@ Launch Spiceworks and read through the tickets for the day <br/>
 Change the ticket category and priority <br/>
 <img width="1918" height="917" alt="2-" src="https://github.com/user-attachments/assets/4f2ec393-f645-4bf2-b5ef-6da05f628a2d" />
 <p align="center">
-Example of a completed support ticket in Spiceworks showing documentation and proper ticket closure.<br/>
+Completed a support ticket in Spiceworks, showing documentation and proper ticket closure.<br/>
 <img width="1824" height="454" alt="closed 1 ticket" src="https://github.com/user-attachments/assets/40c82945-c8ab-42fc-808c-79d9f69a9485" />
