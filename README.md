@@ -2,7 +2,7 @@
 
 # Description 
 
-<p> This project involved building a fully functional IT help desk environment using Spiceworks to simulate real-world technical support operations. I configured ticket categories, priorities, and workflows, then created and resolved multiple realistic support tickets—including WiFi connectivity issues, printer problems, laptop performance troubleshooting, and password resets. Each ticket followed a complete lifecycle with proper triage, troubleshooting steps, time tracking, and documented resolutions. The project demonstrates my ability to manage incidents, communicate with users, and maintain organized and detailed technical documentation within a modern ticketing system. </p>
+<p> This project was created to demonstrate hands-on familiarity with the Spiceworks Help Desk platform. It focuses on basic help desk tasks such as creating support tickets, assigning priorities and categories, adding documentation, and closing tickets to simulate standard IT support workflows.</p>
 
 # Project 
 
@@ -15,3 +15,7 @@ Demonstrating basic ticket management by modifying priority and category fields.
 <p align="center">
 Completed a support ticket in Spiceworks, showing documentation and proper ticket closure.<br/>
 <img width="1824" height="454" alt="closed 1 ticket" src="https://github.com/user-attachments/assets/40c82945-c8ab-42fc-808c-79d9f69a9485" />
+
+# Closing Statement
+
+<p>Through this project, I gained hands-on experience using Spiceworks to manage support tickets from creation through closure, demonstrating familiarity with core help desk workflows and professional ticket documentation practices.</p>
